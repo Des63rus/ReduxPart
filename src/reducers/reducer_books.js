@@ -1,8 +1,8 @@
-export default function (){
-    return[
-        {title: 'Harry Potter'},
-        {title: 'Javascript: the Good Parts'},
-        {title: 'The Dark Tower'},
-        {title: 'Eloquent Ruby'}
+export default function () {
+    return [
+        { title: 'Harry Potter', pages: 31 },
+        { title: 'Javascript: the Good Parts', pages: 32 },
+        { title: 'The Dark Tower', pages: 43 },
+        { title: 'Eloquent Ruby', pages: 1 }
     ];
 }
